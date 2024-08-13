@@ -1,2 +1,2 @@
 # clone-tabnews
-Curso de Git e Github
+Curso Filipe Deschamps
