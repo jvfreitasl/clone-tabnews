@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Curso Filipe Deschamps
+Curso onde recriamos um projeto do Filipe Deschamps, chamado TabNews.
